@@ -1,0 +1,16 @@
+h1{
+    border: 5px solid gray;
+    text-align: center;
+    background-color: brown;
+    width: 500px;
+    margin: 0 440px;
+}
+p{
+    color: green;
+    border: 3px solid red;
+    background-color: salmon;
+    width: 90%;
+    margin: 0 55px;
+    padding: 20px;
+    text-align: justify;
+}
